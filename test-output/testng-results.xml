@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-01T21:19:51 IST" name="Default suite" finished-at="2023-11-01T21:19:52 IST" duration-ms="72">
+    <groups>
+    </groups>
+    <test started-at="2023-11-01T21:19:51 IST" name="Default test" finished-at="2023-11-01T21:19:52 IST" duration-ms="72">
+      <class name="oopsconcept.PS2">
+        <test-method is-config="true" signature="before()[pri:0, instance:oopsconcept.PS2@66f57048]" started-at="2023-11-01T21:19:52 IST" name="before" finished-at="2023-11-01T21:19:52 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method signature="testRun()[pri:0, instance:oopsconcept.PS2@66f57048]" started-at="2023-11-01T21:19:52 IST" name="testRun" finished-at="2023-11-01T21:19:52 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRun -->
+        <test-method is-config="true" signature="after()[pri:0, instance:oopsconcept.PS2@66f57048]" started-at="2023-11-01T21:19:52 IST" name="after" finished-at="2023-11-01T21:19:52 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- oopsconcept.PS2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
